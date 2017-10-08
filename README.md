@@ -1,2 +1,1 @@
-# hello_world
-My first repository
+Hi folks, this is divya and I love pizza. Please invite when you have some.
